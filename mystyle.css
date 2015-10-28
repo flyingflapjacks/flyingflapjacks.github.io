@@ -1,0 +1,17 @@
+html {
+	font-family: 'Inconsolata', ;
+	background-image: url('http://www.torange.us/photo/2/16/Splash-water-on-black-background-1249888081_17.jpg');
+}
+
+body {
+
+}
+
+#mainContainer {
+	width: 1000 px;
+	height: 50px;
+	background-color: #7F7F7F;
+	font-weight: 700;
+	border-radius: 5px;
+	text-align: center;
+}
